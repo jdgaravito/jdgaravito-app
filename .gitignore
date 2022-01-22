@@ -134,3 +134,7 @@ dmypy.json
 
 #migraciones db
 project/migrations/versions
+
+
+#coverage of test
+htmlcov/
